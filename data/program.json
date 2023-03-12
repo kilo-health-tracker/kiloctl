@@ -9,21 +9,21 @@
                     "group_id": 1,
                     "sets": 3,
                     "reps": 6,
-                    "weight": null
+                    "weight": 0
                 },
                 {
                     "name": "bench press",
                     "group_id": 2,
                     "sets": 3,
                     "reps": 8,
-                    "weight": null
+                    "weight": 0
                 },
                 {
                     "name": "bulgarian split squat",
                     "group_id": 2,
                     "sets": 3,
                     "reps": 15,
-                    "weight": null
+                    "weight": 0
                 }
             ]
         },
@@ -35,21 +35,21 @@
                     "group_id": 1,
                     "sets": 3,
                     "reps": 6,
-                    "weight": null
+                    "weight": 0
                 },
                 {
                     "name": "bench press",
                     "group_id": 2,
                     "sets": 3,
                     "reps": 8,
-                    "weight": null
+                    "weight": 0
                 },
                 {
                     "name": "bulgarian split squat",
                     "group_id": 2,
                     "sets": 3,
                     "reps": 15,
-                    "weight": null
+                    "weight": 0
                 }
             ]
         }
